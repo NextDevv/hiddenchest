@@ -1,0 +1,11 @@
+name: HidenChest
+version: '1.0-SNAPSHOT'
+main: me.hydraplugins.hidenchest.HidenChest
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.6.10
+main: me.hydraplugins.hidenchest.HidenChest
+authors: [SpreestDev]
+commands:
+    HidenChest:
+        usage: /<command>
+

@@ -1,0 +1,4 @@
+me\hydraplugins\hidenchest\events\onBlockPlace.class
+me\hydraplugins\hidenchest\commands\HiddenChestCommand.class
+me\hydraplugins\hidenchest\service\SaveInventoryAPI.class
+me\hydraplugins\hidenchest\database\DataBase.class

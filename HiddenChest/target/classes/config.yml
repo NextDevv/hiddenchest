@@ -1,0 +1,5 @@
+default: true
+host: "localhost"
+name: "testsdatabase"
+user: "root"
+password: "Giova-007!."
